@@ -270,10 +270,6 @@ yellow='#e5c07b'
 gray='#828997'
 white ='#abb2bf'
 black='#2c323c'
-EOF
-    echo "Starship 样式配置完成。"
-  fi
-}
 
 # 安装并配置 zsh 插件
 setup_zsh() {
